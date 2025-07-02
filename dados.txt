@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Enzo Esteves Scartzini
+-Profissão: Estudante
+-Cidade: Goiania
+-O que faz nas horas vaga: Jogo video games
+-Feedback sobre o curso Qualidade de Software: Muito Bom
+-Feedback sobre a plataforma de estudo da EBAC: O playr de videos poderia reconhecer a key "espaço", para que pause o video, assim como é na plataforma do Youtube com por exemplo
 
 Obrigado!!!
 
